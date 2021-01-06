@@ -175,10 +175,13 @@ p{
 .working-project{
     float: left;
     width: 370px;
-    height: 500px;
+    height: 350px;
     left: 135px;
     top: 1454px;
     margin-top: 20%;
+    margin-right: 1%;
+    margin-left: 3%;
+    border-radius:10%;
 
     background: #FFFFFF;
     box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
@@ -187,8 +190,8 @@ p{
 }
 .working-project-paragraph{
     height: 60px;
-    left: 38.61%;
-    right: 39.44%;
+    margin-left: -1%;
+    
     top: 1736px;
 
     font-family: Roboto;
@@ -197,6 +200,8 @@ p{
     font-size: 16px;
     line-height: 28px;
     color: #6C6C6C;
+    
+    
 
 }
 .working-project-image{
@@ -205,19 +210,23 @@ p{
     height: 213px;
     left: 551px;
     top: 1469px;
+    margin-left: 5%;
+    margin-top: 5%;
+
 }
 .working-project-headline{
     
-   width: 184px;
+   width: 300px;
    height: 28px;
    left: 952px;
    top: 1694px;
-
+   margin-top: -1%;
    font-family: Roboto;
    font-style: normal;
    font-weight: bold;
    font-size: 24px;
    line-height: 28px;
+   text-align:center;
 
    color: #363958;
 
