@@ -2,7 +2,8 @@ body{
     font-family: 'Oswald', sans-serif;
 }
 nav{
-    height: 100px;
+    /* menu bar */
+    height: 150px;
     width: 100%;
     background-color: #fff;
 }
@@ -30,15 +31,13 @@ h1{
 }
 
 p{
-    /* A full stack allaround designer that placerat in massa consectetur */
-
-
-  
+    /* lorem text */
   width: 500px;
   height: 48px;
   left: 138px;
   top: 358px;
-  margin-left: 90px;
+  margin-left: 5px;
+  margin-bottom: 9%;
   padding:50px 0px;
 
   font-family: Roboto;
@@ -62,10 +61,40 @@ p{
     width: 500px;
     margin-bottom: -30px;
     height: 50px;
-    margin-left: 90px;
+    margin-left: 2px;
     top: 180px;
     align: top;
     font-size: 60px;
     font-weight: bold;
  
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+
+.link-button{
+    text-decoration: none;
+    background: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
+    padding: 20px 70px;
+    margin-top: -80px;
+    border-radius: 7px;
+    color: white;
+    font-weight: 700;
+    width: 500px;
+    height: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    
+
+}
+.top-section{
+    margin-left: 3%;
+    margin-right: 7%;
 }
