@@ -141,7 +141,7 @@ p{
     position: absolute;
     width: 800px;
     height: 48px;
-    left: 350px;
+    left: 450px;
     top: 1450px;
     font-family: Bebas Neue;
     font-style: normal;
@@ -214,13 +214,13 @@ p{
     margin-top: 3px;
 }
 .last-section{  
-    background-image: url(images/bg.png);    
+    background-image: url(images/bg.png);  
     position: absolute;
     width: 906px;
     height: 200px;
     left: 267px;
     top: 2300px;
-    border-radius: 35px;   
+       
 }
 #lets-chat{
     text-decoration: none;
