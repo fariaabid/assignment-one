@@ -1,0 +1,25 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+nav{
+    height: 100px;
+    width: 100%;
+    background-color: #fff;
+}
+ul{
+    margin-left: 60%;
+}
+ul li {
+    list-style: none;
+    display: inline-block;
+    float: left;
+    line-height: 100px;
+    font-weight: 600;
+}
+ul li a {
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial;
+    color: black;
+    padding: 0px 20px;
+}
