@@ -245,7 +245,7 @@ p{
 }
 #work-inquiry{
     position: absolute;
-    width: 400px;
+    width: 500px;
     height: 300px;
     left: 341px;
     margin-top: 9%;
@@ -256,6 +256,15 @@ p{
     font-weight: 500;
     font-size: 64px;
     line-height: 64px;
+}
+#last-button{
+    margin-left: 650px;
+    
+    width: 134px;
+    height: 60px;
+    left: 972px;
+    top: 2300px;
+
 }
 h5{
     position: absolute;
