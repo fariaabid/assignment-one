@@ -1,5 +1,6 @@
 body{
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
 }
 nav{
     /* menu bar */
@@ -28,6 +29,24 @@ ul li a {
 h1{
     font-size: 50px;
     color: #363958;
+    letter-spacing: 1px;
+}
+h2{
+    /* About */
+    width: 40px;
+    height: 60px;
+    left: 80%;
+    top: 600px;
+    margin-left: 10%;
+    margin-top: 10%;
+
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 30px;
+    color: #363958;
+
 }
 
 p{
@@ -40,7 +59,7 @@ p{
   margin-bottom: 9%;
   padding:50px 0px;
 
-  font-family: Roboto;
+  font-family: roboto;
   
   font-weight: 400;
   font-size: 16px;
@@ -82,7 +101,7 @@ p{
 .link-button{
     text-decoration: none;
     background: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
-    padding: 20px 70px;
+    padding: 20px 50px;
     margin-top: -80px;
     border-radius: 7px;
     color: white;
@@ -94,7 +113,38 @@ p{
     
 
 }
-.top-section{
+.first-section{
     margin-left: 3%;
     margin-right: 7%;
+}
+
+#second{
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 10%;
+    margin-top: -80px;
+
+}
+.second-section{
+    margin-top: 5%;
+}
+.link-button2{
+    margin-left: 10%;
+    text-decoration: none;
+    background: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
+    padding: 20px 50px;
+    margin-top: -80px;
+    border-radius: 7px;
+    color: white;
+    font-weight: 700;
+    width: 500px;
+    height: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+
 }
